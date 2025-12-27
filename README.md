@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Malayali Dev<br>🔭 Currently working on: Full-stack web apps, Discord bots & dashboards<br>🤝 Looking to collaborate on: Web development, UI/UX, Discord.js projects<br>🌱 Learning: Next.js • TypeScript • Tailwind CSS<br>💬 Ask me about: JavaScript, Web Dev, Hosting, APIs<br>⚡ Fun fact: I fix bugs also i create bugs😄
+👋 Hi, I'm Malayali Dev<br>🔭 Currently working on: Full-stack web apps, Discord bots & dashboards<br>🌱 Learning: Next.js • TypeScript • Tailwind CSS<br>💬 Ask me about: JavaScript, Web Dev, Hosting, APIs<br>⚡ Fun fact: I fix bugs also i create bugs😄
 
 
 ## 🌐 Socials:
